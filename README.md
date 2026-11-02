@@ -75,7 +75,7 @@ Premendra Singh
 
 This project was developed as part of an academic backend development assignment. The project structure and implementation concepts were studied with reference to the following tutorial repository:
 
-Reference Repository: Introduction to Backend
+Reference Repository: [Introduction to Backend Tutorial](https://github.com/NewSmoke38/intro-to-backend)
 
 Tutorial Creator: Shivani
 
