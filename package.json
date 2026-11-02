@@ -1,7 +1,7 @@
 {
-  "name": "intro-to-backend",
+  "name": "backend-development-assignment",
   "version": "1.0.0",
-  "description": "a tutorial for intro to backend",
+  "description": "Backend Development Assignment using Node.js, Express and MongoDB",
   "main": "backend/src/index.js",
   "type": "module",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NewSmoke38/intro-to-backend.git"
+    "url": "git+https://github.com/Premendra-Singh/backend-development-assignment.git"
   },
-  "author": "Shivani",
+  "author": "Premendra Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NewSmoke38/intro-to-backend/issues"
+    "url": "https://github.com/Premendra-Singh/backend-development-assignment/issues"
   },
-  "homepage": "https://github.com/NewSmoke38/intro-to-backend#readme",
+  "homepage": "https://github.com/Premendra-Singh/backend-development-assignment#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "dotenv": "^17.2.2",
