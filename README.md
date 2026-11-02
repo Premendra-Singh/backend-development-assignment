@@ -72,3 +72,13 @@ All CRUD operations can be tested using Postman.
 
 ## Author
 Premendra Singh
+
+This project was developed as part of an academic backend development assignment. The project structure and implementation concepts were studied with reference to the following tutorial repository:
+
+Reference Repository: Introduction to Backend
+
+Tutorial Creator: Shivani
+
+Topics Referenced: Node.js, Express.js, MongoDB integration, Mongoose models, REST API development, and CRUD operations.
+
+The reference material was used for learning and understanding backend development concepts. The project was configured, tested, and prepared for this assignment.
